@@ -35,7 +35,7 @@ Two types of papers can be submitted. Full technical papers with a length up to 
 
 Single-blind reviewing is used, so submitted papers must use fake/anonymized author names and affiliations. Papers must use the latest template and must be submitted as PDF.
 
-Papers must be submitted as PDF through the [EasyChair conference system](https://easychair.org/conferences/?conf=flairs38).
+Papers must be submitted as PDF through the [EasyChair conference system](https://easychair.org/conferences/TBC).
 
 ## Deadlines
 * Paper submission deadline: TBC, 2025 
