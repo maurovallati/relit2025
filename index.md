@@ -1,11 +1,11 @@
 ---
 layout: default
-title: AI for Urban Traffic Control and Mobility
+title: Reasoning and Learning for Intelligent Transport
 ---
 
-# AI for Urban Traffic Control and Mobility
+# Reasoning and Learning for Intelligent Transport
 
-This is the website for the [FLAIRS 2025](https://www.flairs-38.info/) Special Track on AI for Urban Traffic Control and Mobility.
+This is the website for the [ECAI 2025](https://ecai2025.org/) Workshop ReLiT on Reasoning and Learning for Intelligent Transport.
 
 
 ## Call for Papers
@@ -17,49 +17,36 @@ The aim of this special track is to foster the investigation and development of 
 *	Traffic signal control and optimisation
 *	Traffic assignment and distribution
 *	Public transport optimization and control
-*	Vehicular ad-hoc networks (VANETs)
 *	Connected and Autonomous Vehicles
 *	Fleet and logistics optimisation
-*	On-demand transport 
-*	Traffic data management
-*	Urban traffic simulation
+*	AI approaches to on-demand transport 
+*	Multi-modal transport and travel planning
+*	Smart urban traffic simulation
 *	Interaction between traffic control and rail traffic management
 *	Long/short term traffic prediction
 *	The role of interpretability in traffic control
-*	Threat modeling in urban traffic control and mobility
-*	Cyber Threat Analysis in urban traffic control and mobility
+*	Normative reasoning in intelligent transport systems
+*	AI & law in the smart city context
 *	Security by design in urban traffic control and mobility
+*	The combination of model-based and data-driven approaches for transport
 
 ## Submission Instructions
-There are three kinds of submissions: full paper—a paper of high quality, which will be published in the proceedings (up to 6 pages plus references) and will be presented by the author in a corresponding track (20 minute oral presentation); short paper—a paper that shows some novelty and general interest, but is more preliminary or in the early stages of development, which also get published in the proceedings (up to 4 pages plus references) and the author presents the work in a poster session; and poster paper, which will be published as a poster paper (up to 2 pages plus references) and the author presents the work in a poster session. 
+Two types of papers can be submitted. Full technical papers with a length up to 7 pages (including references) are standard research papers. Short papers with a length between 2 and 4 pages can describe either a particular application, or focus on open challenges. All papers should conform to the ECAI style template.
 
-Rejected full papers might be accepted as short papers or posters, if reviewers found interest in the idea but the paper quality was not sufficient to be published in full length. 
+Single-blind reviewing is used, so submitted papers must use fake/anonymized author names and affiliations. Papers must use the latest template and must be submitted as PDF.
 
-Appendices after the references are permitted but might not be reviewed, and appendices will not be permitted in the final version of the paper if it is accepted. 
-
-Double-blind reviewing is used, so submitted papers must use fake/anonymized author names and affiliations. Papers must use the latest template and must be submitted as PDF.
-
-Papers must be in format provided in FLAIRS-38 website, and submitted as PDF through the [EasyChair conference system](https://easychair.org/conferences/?conf=flairs38), which is also available in the main conference web site. The proceedings of FLAIRS-38 will be published by [Florida OJ](https://journals.flvc.org/FLAIRS/index). In order for a paper to be published in the proceedings, the paper must be accompanied by at least one AUTHOR REGISTRATION.  It is also expected that for a full (i.e., maximum 6-page) paper, at least one of the authors will attend the conference to present their work. In order for a poster to be presented at the conference, it must also be accompanied by an AUTHOR REGISTRATION.
+Papers must be submitted as PDF through the [EasyChair conference system](https://easychair.org/conferences/?conf=flairs38).
 
 ## Deadlines
-* Paper abstract submission deadline: January 20, 2025 
-* Paper submission deadline: January 27, 2025 
-* Notification: March 10, 2025
-* Camera-ready paper submission: April 9, 2025
+* Paper submission deadline: TBC, 2025 
+* Notification: TBC, 2025
+* Camera-ready paper submission: TBC, 2025
 
 
 ## Organizers
  - [Lukas Chrpa](https://sites.google.com/view/lukaschrpa/home)
  - [Mauro Vallati](https://www.mvallati.net/)
+ - [Serena Villata](https://webusers.i3s.unice.fr/~villata/Home.html)
 
 ## Program Committee
-- Ron Alford
-- Saumya Bhatnagar
-- Sandra Castellanos
-- Carmine Dodaro
-- Alba Gragera
-- Rongge Guo
-- Marco Maratea
-- Andrea Orlandini
-- Cecilia Pasquale
-- Mi Yang
+TBC
