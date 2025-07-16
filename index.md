@@ -49,4 +49,14 @@ Papers must be submitted as PDF through the [EasyChair conference system](https:
  - [Serena Villata](https://webusers.i3s.unice.fr/~villata/Home.html)
 
 ## Program Committee
-TBC
+- Dani Papamaximou, University of Huddersfield
+- Alba Gragera, Universidad Carlos III de Madrid
+- Carmine Dodaro, University of Calabria
+- Sandra Castellanos-Paez, University of Huddersfield
+- Alessandro Umbrico, National Research Council of Italy (CNR-ISTC)
+- Andrea Micheli, Fondazione Bruno Kessler
+- Andrea Orlandini, CNR
+- Riccardo De Benedictis, CNR
+- Rongge Guo, Beijing Jiaotong University
+- Saumya Bhatnagar, University of Huddersfield
+- Maria Chli, Aston University
