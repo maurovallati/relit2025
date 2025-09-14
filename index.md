@@ -42,7 +42,37 @@ Papers must be submitted as PDF through the [EasyChair conference system](https:
 * Notification: August 8th, 2025
 * Camera-ready paper submission: TBC, 2025
 
+## Workshop Schedule
 
+ReLiT is scheduled on the 25th of October 2025. Each talk is allocated 20 minutes, including Q&A.
+
+---
+[10:30 - 11:00] - Coffee Break (get your caffeine shot for enjoying all the talks)
+---
+[11:00 - 12:30] - **Opening Remarks and Session 1**
+- "Application of Voronoi Neighborhood Weighted Graph Convolutional Networks for City-Sized Car Traffic Prediction",	Przemysław Bielecki, Tomasz Hachaj and Jarosław Wąs
+- "Automated Planning for Modular Autonomous Customised Bus Systems: A Preliminary Study", Dani Papamaximou, Rongge Guo, Francesco Percassi and Mauro Vallati
+- "Real-time Rescheduling of Trains in Generic Railway Networks using Reinforcement Learning",	Aakash Swami, Gajendra Malviya and Shripad Salsingikar
+- "Budget limited spatial network improvement using Monte Carlo Search",	Milo Roucairol and Tristan Cazenave
+
+---
+[12:30 - 14:00] - Lunch Break
+---
+[14:00 - 15:30] - **Session 2**
+- "Community Facility Location Game for EV Charging Infrastructure Planning",	Qi Wang and Dongmo Zhang
+- "General Game Playing for Managing Autonomous Vehicle Traffic",	Michael Thielscher and Dongmo Zhang
+- "Explainable AI Reasoning for Urban Traffic Understanding",	Eleonora Bernasconi, Stefano Ferilli and Domenico Redavid
+- "Neuro-Symbolic Workflow for Lightweight Detection of Traffic Anomalies in Real Time",	Michiel Dhont and Elena Tsiporkova
+
+---
+[15:30 - 16:00] - Coffee Break
+---
+[16:00 - 17:00] - **Session 3 & Closing Remarks**
+- "Scheduling Conflict-free Urban Air Mobility Operations with Answer Set Programming", Gioacchino Sterlicchio, Angelo Oddi, Riccardo Rasconi and
+Francesca Alessandra Lisi
+- "GAT-LLM: A Graph Attention-Based Framework with Large Language Models for Spatio-Temporal Traffic Forecasting",	Sadia Tabassum, Sumon Ahmed and Naushin Nower
+
+---
 ## Organizers
  - [Lukas Chrpa](https://sites.google.com/view/lukaschrpa/home)
  - [Mauro Vallati](https://www.mvallati.net/)
