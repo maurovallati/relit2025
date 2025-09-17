@@ -58,6 +58,7 @@ ReLiT is scheduled on the 25th of October 2025. Each talk is allocated 20 minute
 
 ---
 [12:30 - 14:00] - Lunch Break
+
 ---
 [14:00 - 15:30] - **Session 2**
 - "Community Facility Location Game for EV Charging Infrastructure Planning",	Qi Wang and Dongmo Zhang
@@ -67,6 +68,7 @@ ReLiT is scheduled on the 25th of October 2025. Each talk is allocated 20 minute
 
 ---
 [15:30 - 16:00] - Coffee Break
+
 ---
 [16:00 - 17:00] - **Session 3 & Closing Remarks**
 - "Scheduling Conflict-free Urban Air Mobility Operations with Answer Set Programming", Gioacchino Sterlicchio, Angelo Oddi, Riccardo Rasconi and
