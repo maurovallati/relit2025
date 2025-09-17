@@ -40,7 +40,7 @@ Papers must be submitted as PDF through the [EasyChair conference system](https:
 ## Deadlines
 * Paper submission deadline: July 15th, 2025 
 * Notification: August 8th, 2025
-* Camera-ready paper submission: TBC, 2025
+* Camera-ready paper submission: October 1st, 2025
 
 ## Workshop Schedule
 
@@ -48,6 +48,7 @@ ReLiT is scheduled on the 25th of October 2025. Each talk is allocated 20 minute
 
 ---
 [10:30 - 11:00] - Coffee Break (get your caffeine shot for enjoying all the talks)
+
 ---
 [11:00 - 12:30] - **Opening Remarks and Session 1**
 - "Application of Voronoi Neighborhood Weighted Graph Convolutional Networks for City-Sized Car Traffic Prediction",	Przemysław Bielecki, Tomasz Hachaj and Jarosław Wąs
