@@ -62,7 +62,7 @@ ReLiT is scheduled on the 25th of October 2025. Each talk is allocated 20 minute
 [14:00 - 15:30] - **Session 2**
 - "Community Facility Location Game for EV Charging Infrastructure Planning",	Qi Wang and Dongmo Zhang
 - "General Game Playing for Managing Autonomous Vehicle Traffic",	Michael Thielscher and Dongmo Zhang
-- [Explainable AI Reasoning for Urban Traffic Understanding]](./ReLiT_2025_paper_10.pdf),	Eleonora Bernasconi, Stefano Ferilli and Domenico Redavid
+- [Explainable AI Reasoning for Urban Traffic Understanding](./ReLiT_2025_paper_10.pdf),	Eleonora Bernasconi, Stefano Ferilli and Domenico Redavid
 - [Neuro-Symbolic Workflow for Lightweight Detection of Traffic Anomalies in Real Time](./ReLiT_2025_paper_11.pdf),	Michiel Dhont and Elena Tsiporkova
 
 ---
