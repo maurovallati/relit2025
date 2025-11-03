@@ -51,7 +51,7 @@ ReLiT is scheduled on the 25th of October 2025. Each talk is allocated 20 minute
 
 ---
 [11:00 - 12:30] - **Opening Remarks and Session 1**
-- [Application of Voronoi Neighborhood Weighted Graph Convolutional Networks for City-Sized Car Traffic Prediction](./ReLiT_2025_paper_2.pdf),	Przemysław Bielecki, Tomasz Hachaj and Jarosław Wąs
+- Application of Voronoi Neighborhood Weighted Graph Convolutional Networks for City-Sized Car Traffic Prediction,	Przemysław Bielecki, Tomasz Hachaj and Jarosław Wąs
 - "Automated Planning for Modular Autonomous Customised Bus Systems: A Preliminary Study", Dani Papamaximou, Rongge Guo, Francesco Percassi and Mauro Vallati
 - [Budget limited spatial network improvement using Monte Carlo Search](./ReLiT_2025_paper_6.pdf),	Milo Roucairol and Tristan Cazenave
 
